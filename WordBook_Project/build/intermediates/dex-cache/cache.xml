@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\JINHO\Desktop\WordBook_Project\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5685676dfbe93fbc68a0e80603e6dab6c6525493">
+        <dex dex="C:\Users\JINHO\Desktop\WordBook_Project\app\build\intermediates\pre-dexed\debug\instant-run_d3719e8d34c1d663c74be1390d4ae34885483d77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JINHO\Desktop\WordBook_Project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\JINHO\Desktop\WordBook_Project\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_66db3a9ce16fe6e31aa350813a2dfcab3bd42e8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JINHO\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\JINHO\Desktop\WordBook_Project\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_27c9b982d406550c8c0e2492980db10fc2326022.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JINHO\Desktop\WordBook_Project\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\JINHO\Desktop\WordBook_Project\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_1300aa4efd3006b914c64106ef99f88b2260cb5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JINHO\Desktop\WordBook_Project\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1a94b6cf35d0da614097efb5284422749b54adfa">
+        <dex dex="C:\Users\JINHO\Desktop\WordBook_Project\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e949ba73cc7adbf67643f344ef9b22bcc268cf18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JINHO\Desktop\WordBook_Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\JINHO\Desktop\WordBook_Project\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_7ada7cd8ba1e1f565562f59e2d9f9bdf9ce7892d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JINHO\Desktop\WordBook_Project\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\JINHO\Desktop\WordBook_Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_c850d1a497a46317b6629cd6e150424ad88f5486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JINHO\Desktop\WordBook_Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\JINHO\Desktop\WordBook_Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_efc211b7d239f38fe05712746db99e101d36b77b.jar" />
+    </item>
+
+</items>
